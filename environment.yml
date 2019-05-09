@@ -1,7 +1,7 @@
 name: ecology-prac
 channels:
-  r
-  conda-forge
+  - r
+  - conda-forge
 dependencies:
   - pandoc
   - nbconvert
