@@ -1,0 +1,21 @@
+﻿Group,Site,TreePercent,ShrubPercent,GrassPercent,ForbPercent,stems
+Oliver,Foredune,0,25,72,0,0
+Rosie,Foredune,0,30,60,5,2
+Ross,Foredune,0,50,10,60,4
+Sonya,Foredune,0,23,87,1,0
+Tom,Foredune,0,10,92,0,0
+Oliver,Hinddune,60,25,0,6.1,15
+Rosie,Hinddune,80,8,5,2,13
+Ross,Hinddune,25,10,12,15,9
+Sonya,Hinddune,120,80,0,6,26
+Tom,Hinddune,80,60,60,10,8
+Oliver,Dry Forest,85,35,30.2,0,6
+Rosie,Dry Forest,70,40,45,5,19
+Ross,Dry Forest,60,60,30,5,12
+Sonya,Dry Forest,120,25,45,9,23
+Tom,Dry Forest,80,20,5,5,5
+Oliver,Wet Forest,90,5.5,2,0,16
+Rosie,Wet Forest,90,10,10,2,12
+Ross,Wet Forest,65,70,15,3,33
+Sonya,Wet Forest,150,8,3,2,14
+Tom,Wet Forest,80,5,0,30,7

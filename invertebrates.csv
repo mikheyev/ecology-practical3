@@ -1,0 +1,61 @@
+Group,Site,Method,Coleoptera,Hymenoptera,Lepidoptera,Hemiptera,Orthoptera,Diptera,Ticks,Spiders,Isoptera,Mites
+Tom,Foredune,Beating,0,0,0,0,0,0,0,0,0,0
+Tom,Foredune,Sweeping,1,1,0,0,0,0,0,1,1,1
+Tom,Foredune,Light,0,0,0,0,0,0,0,0,0,0
+Tom,Hinddune,Beating,0,0,0,0,1,0,0,4,0,0
+Tom,Hinddune,Sweeping,0,0,0,0,0,1,0,0,0,0
+Tom,Hinddune,Light,0,0,0,0,0,0,0,0,0,0
+Tom,Dry Forest,Beating,0,1,0,0,1,0,0,11,0,1
+Tom,Dry Forest,Sweeping,0,0,0,0,0,2,0,4,0,0
+Tom,Dry Forest,Light,10,7,23,9,11,0,0,1,1,0
+Tom,Wet Forest,Beating,0,1,0,0,0,0,0,16,0,1
+Tom,Wet Forest,Sweeping,0,1,0,0,0,0,1,3,0,0
+Tom,Wet Forest,Light,8,5,54,2,4,9,0,0,3,0
+Ross,Foredune,Beating,1,0,0,0,0,0,0,1,0,0
+Ross,Foredune,Sweeping,0,0,0,0,1,0,0,0,0,0
+Ross,Foredune,Light,0,0,0,0,0,0,0,0,0,0
+Ross,Hinddune,Beating,0,2,0,1,0,0,0,5,0,0
+Ross,Hinddune,Sweeping,0,0,0,0,0,2,0,1,0,0
+Ross,Hinddune,Light,0,0,0,0,0,0,0,0,0,0
+Ross,Dry Forest,Beating,0,1,0,0,4,0,3,20,0,0
+Ross,Dry Forest,Sweeping,0,0,0,0,0,0,0,2,0,0
+Ross,Dry Forest,Light,9,2,10,0,0,2,0,1,0,0
+Ross,Wet Forest,Beating,0,3,0,0,0,0,0,5,0,0
+Ross,Wet Forest,Sweeping,0,0,0,0,0,0,0,3,0,0
+Ross,Wet Forest,Light,15,4,25,0,1,8,0,1,0,0
+Oliver,Foredune,Beating,0,0,0,0,0,0,0,1,0,0
+Oliver,Foredune,Sweeping,1,1,0,0,0,1,0,0,0,0
+Oliver,Foredune,Light,0,0,0,0,0,0,0,0,0,0
+Oliver,Hinddune,Beating,0,4,0,0,0,0,0,7,1,0
+Oliver,Hinddune,Sweeping,0,0,0,0,0,0,0,0,0,0
+Oliver,Hinddune,Light,0,0,0,0,0,0,0,0,0,0
+Oliver,Dry Forest,Beating,0,3,0,0,1,0,0,6,0,0
+Oliver,Dry Forest,Sweeping,2,5,0,2,0,6,0,7,0,2
+Oliver,Dry Forest,Light,0,3,10,1,2,5,0,0,0,0
+Oliver,Wet Forest,Beating,1,1,0,0,0,2,0,10,0,0
+Oliver,Wet Forest,Sweeping,0,1,0,0,0,0,0,3,0,0
+Oliver,Wet Forest,Light,3,1,19,0,2,0,0,0,0,0
+Rosie,Foredune,Beating,1,0,0,0,0,0,0,1,0,0
+Rosie,Foredune,Sweeping,0,0,0,1,1,0,0,0,0,0
+Rosie,Foredune,Light,0,0,0,0,0,0,0,0,0,0
+Rosie,Hinddune,Beating,0,1,0,0,0,0,0,0,0,0
+Rosie,Hinddune,Sweeping,0,0,0,0,0,1,0,1,0,0
+Rosie,Hinddune,Light,0,0,0,0,0,0,0,0,0,0
+Rosie,Dry Forest,Beating,2,0,0,1,0,0,0,2,0,0
+Rosie,Dry Forest,Sweeping,0,2,0,0,0,0,0,2,0,0
+Rosie,Dry Forest,Light,0,1,4,0,2,0,0,0,1,0
+Rosie,Wet Forest,Beating,0,1,0,0,0,0,0,4,0,0
+Rosie,Wet Forest,Sweeping,0,0,0,0,0,0,0,0,0,0
+Rosie,Wet Forest,Light,4,8,8,0,0,5,0,0,2,0
+Sonya,Foredune,Beating,0,1,0,0,0,0,0,0,0,0
+Sonya,Foredune,Sweeping,0,0,0,0,0,0,0,0,0,0
+Sonya,Foredune,Light,0,0,0,0,0,0,0,0,0,0
+Sonya,Hinddune,Beating,0,1,1,0,0,0,0,1,0,0
+Sonya,Hinddune,Sweeping,0,1,0,0,0,0,0,1,0,0
+Sonya,Hinddune,Light,0,0,0,0,0,0,0,0,0,0
+Sonya,Dry Forest,Beating,0,1,0,0,1,0,5,3,0,0
+Sonya,Dry Forest,Sweeping,0,0,0,0,0,0,0,0,1,0
+Sonya,Dry Forest,Light,3,3,13,0,0,0,0,0,0,0
+Sonya,Wet Forest,Beating,1,0,2,0,0,0,0,3,0,0
+Sonya,Wet Forest,Sweeping,0,0,0,0,0,0,0,0,0,0
+Sonya,Wet Forest,Light,1,2,19,0,0,3,0,0,0,0
