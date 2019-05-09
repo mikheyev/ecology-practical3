@@ -1,9 +1,9 @@
 name: ecology-prac
 channels:
   r
+  conda-forge
 dependencies:
-  - python
-  - pip
-  - r-base
-  - pip:
-    - jupyter
+  - pandoc
+  - nbconvert
+  - r-essentials
+  - jupyter
