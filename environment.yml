@@ -1,6 +1,9 @@
 name: ecology-prac
+channels:
+  r
 dependencies:
   - python
+  - pip
+  - r-base
   - pip:
     - jupyter
-    - jupyterthemes
